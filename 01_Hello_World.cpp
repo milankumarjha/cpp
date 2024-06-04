@@ -8,9 +8,11 @@ using namespace std;
       return 0;
   
   }
+// or
+#include <iostream>
 
-
-
-
-
-
+int main(){
+    std ::cout<< "Hello World";
+    
+    return 0;
+}
